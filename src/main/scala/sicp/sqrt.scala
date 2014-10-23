@@ -2,7 +2,7 @@ package sicp
 
 /**
  * Chapter 1
- * Exercise 1.17, 1.18
+ * Exercise 1.7, 1.8
  */
 object Root {
 	def main(args: Array[String]): Unit = {
